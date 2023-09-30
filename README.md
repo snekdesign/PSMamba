@@ -1,6 +1,7 @@
 # PSMamba
-[![][1]][2] [![][3]][4]
-Call [libmamba][5] directly from (Windows) PowerShell via C++/CLI.
+[![][1]][2] [![][3]][4] ![][5]
+
+Call [libmamba][6] directly from (Windows) PowerShell via C++/CLI.
 Say goodbye to `libmambapy`, `mamba` and `micromamba`.
 ## Installation
 ```powershell
@@ -18,4 +19,5 @@ Get-Help exenv
 [2]: https://github.com/snekdesign/PSMamba/blob/main/LICENSE#L1-L339
 [3]: https://img.shields.io/badge/license-Anti--996-blue.svg
 [4]: https://github.com/snekdesign/PSMamba/blob/main/LICENSE#L343-L388
-[5]: https://github.com/mamba-org/mamba/tree/main/libmamba
+[5]: https://img.shields.io/badge/platform-windows-lightgrey.svg
+[6]: https://github.com/mamba-org/mamba/tree/main/libmamba
