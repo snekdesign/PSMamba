@@ -21,7 +21,7 @@ requirements:
   - "{{ compiler('cxx') }}"
   - python
   host:
-  - libmamba >1.5.1
+  - libmamba >=1.6.0
   run:
   - libmamba
 
