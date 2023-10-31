@@ -2,7 +2,7 @@
 [![][1]][2] [![][3]][4] ![][5]
 
 Call [libmamba][6] directly from (Windows) PowerShell via C++/CLI.
-Say goodbye to `libmambapy`, `mamba` and `micromamba`.
+Say goodbye to `libmambapy` and `micromamba`.
 ## Installation
 ```powershell
 boa build --pkg-format=2 .
